@@ -26,14 +26,4 @@ public class Queries extends Conexion {
 
         return false;
     }
-
-    public static void main(String[] args) {
-        Queries query = new Queries();
-        try {
-            System.out.println(query.authentication("",""));
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-    }
-
 }

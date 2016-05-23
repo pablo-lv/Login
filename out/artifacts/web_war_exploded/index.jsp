@@ -8,7 +8,7 @@
   <body>
     <div class="container">
         <h1>Inicio de Sesión</h1>
-        <form action="#" method="POST">
+        <form action="Authentication" method="POST">
             <div class="form-group">
                 <input class="form-control" type="text" name="user" id="user">
             </div>
