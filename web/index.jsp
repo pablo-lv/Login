@@ -16,7 +16,7 @@
                 <input class="form-control" type="password" name="password" id="pass">
             </div>
             <div class="form-group">
-                <input type="submit" value="Entrar">
+                <input class="btn btn-primary" type="submit" value="Entrar">
             </div>
 
 
